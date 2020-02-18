@@ -20,9 +20,9 @@ bing_verify:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: CAC0F1
-  primary-rgb: "202, 192, 241"
-  secondary: C8C7F0
+  primary: A097C2
+  primary-rgb: "160, 151, 194"
+  secondary: 31313C
   secondary-dark: 69527E
   section-tout: F4F2FC
 
