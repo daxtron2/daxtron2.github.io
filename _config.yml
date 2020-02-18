@@ -1,20 +1,16 @@
 # Site settings
-name: Edwin E. Exemplar
-email: edwin+contactme@someemail.com
+name: Thomas "TJ" Wolschon
+email: tjw3948@rit.edu
 #canonical_url: https://edwinexemplar.com
-keywords: "Software Engineer, Python, Ruby, Machine Learning, Deep Learning, Startups, Agile, Pair Programming"
-skills: "Senior Software Engineer in Seattle, WA (Fictitious)"
+keywords: "Software Engineer, Game Developer, C#, Unity, C++, JavaScript"
+skills: "Student / Lead Game Developer and CTO at Ardin Interactive"
 baseurl:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # You should replace these with your social networks, of course. :)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/cgroom/
-  - title: medium
-    url: https://medium.com/@cgroom
-  - title: twitter
-    url: https://twitter.com/chuck_groom
+    url: https://www.linkedin.com/in/thomas-wolschon-248134127/
     
 # Google webmaster tools
 google_verify:
@@ -24,12 +20,11 @@ bing_verify:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 2196F3
-  primary-rgb: "33, 150, 243"
-  secondary: 285172
-  secondary-dark: 29455b
-  section-tout: eaf1f1
-
+  primary: CAC0F1
+  primary-rgb: "202, 192, 241"
+  secondary: C8C7F0
+  secondary-dark: 69527E
+  section-tout: F4F2FC
 
 
 # Build settings
